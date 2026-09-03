@@ -1,0 +1,6 @@
+@Scase_HostAddress = http://localhost:5013
+
+GET {{Scase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

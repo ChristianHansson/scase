@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Core/">
+    <Project Path="Core/Scase.Application/Scase.Application.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="Infrastructure/Scase.SMHI/Scase.SMHI.csproj" />
+  </Folder>
+  <Folder Name="/UnitTests/">
+    <Project Path="UnitTests/Scase.Application.Tests/Scase.Application.Tests.csproj" />
+  </Folder>
+  <Project Path="Scase/Scase.csproj" />
+</Solution>
